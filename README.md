@@ -1,9 +1,9 @@
-# assignment_1
+# Python assignment_1
 
-## 🎯 Project Overview  
+## Project Overview  
 This repository contains “First Python Assignment” — a set of Python utilities and scripts for tasks such as configuration management, password-strength checking, CPU usage monitoring, backups, etc. It serves as a learning / utility project to practise Python scripting and basic system-automation tasks.
 
-## 📁 Contents  
+## Contents  
 | File / Module | Description |
 |---------------|-------------|
 | `config_management.py` | Script to manage configuration (read/write) from `config.ini`. |  
@@ -13,7 +13,7 @@ This repository contains “First Python Assignment” — a set of Python utili
 | `config.ini` | Configuration file (used by config-management script). |  
 | `requirements.txt` | List of external dependencies / Python packages required. |  
 
-## 🚀 Getting Started  
+## Getting Started  
 
 ### Prerequisites  
 - Python (version 3.x) installed on your system.  
