@@ -79,6 +79,8 @@ Displays basic CPU usage information.
 ```bash
 python cpu_usage_monitor.py
 ```
+<img width="672" height="287" alt="image" src="https://github.com/user-attachments/assets/13b75e70-0a31-48b8-9444-fa7b884397a4" />
+
 
 ### Backup Scripts
 
